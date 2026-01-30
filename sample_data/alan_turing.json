@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who made influential contributions to multiple scientific and mathematical fields.",
+  "key_entities": {
+    "people": ["Alan Turing", "Alonzo Church", "John von Neumann", "Christopher Strachey"],
+    "organizations": ["University of Cambridge", "Bletchley Park", "University of Manchester", "Princeton Institute"],
+    "locations": ["United Kingdom", "Paddington", "Cambridge", "Manchester"]
+  },
+  "sections": ["Early life and education", "World War II", "Post-war work", "Death and legacy"],
+  "related_topics": ["Cryptography", "Enigma machine", "Computability theory", "Artificial intelligence", "Turing test"],
+  "quiz": [
+    {
+      "question": "At which university did Alan Turing study?",
+      "options": ["Harvard University", "University of Cambridge", "Oxford University", "Princeton University"],
+      "answer": "University of Cambridge",
+      "difficulty": "easy",
+      "explanation": "Turing studied mathematics at King's College, Cambridge."
+    },
+    {
+      "question": "What was Alan Turing's main contribution to World War II?",
+      "options": ["Atomic bomb research", "Breaking the Enigma code", "Inventing radar", "Designing jet engines"],
+      "answer": "Breaking the Enigma code",
+      "difficulty": "medium",
+      "explanation": "Turing worked at Bletchley Park on breaking the German Enigma cipher."
+    },
+    {
+      "question": "What is the 'Turing Test' designed to measure?",
+      "options": ["Mathematical ability", "Machine intelligence", "Computational speed", "Memory capacity"],
+      "answer": "Machine intelligence",
+      "difficulty": "medium",
+      "explanation": "The Turing Test proposed by Alan Turing is a measure of machine intelligence and whether a machine can exhibit intelligent behavior indistinguishable from humans."
+    },
+    {
+      "question": "What field did Turing contribute to after World War II?",
+      "options": ["Political science", "Computer science and AI", "Biology only", "Physics"],
+      "answer": "Computer science and AI",
+      "difficulty": "hard",
+      "explanation": "After WWII, Turing worked on the Manchester Mark 1, one of the earliest stored-program computers, and pioneered the field of artificial intelligence."
+    }
+  ],
+  "created_at": "2024-01-30T10:00:00Z"
+}
